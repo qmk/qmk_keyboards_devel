@@ -191,7 +191,8 @@
                 "jiran/rev2": { "device_ver": "0x0300", "pid": "0x3735", "vid": "0x1209" }
             },
             "0x6969": {
-                "squiggle": { "device_ver": "0x0001", "pid": "0x6969", "vid": "0x1209" }
+                "squiggle": { "device_ver": "0x0001", "pid": "0x6969", "vid": "0x1209" },
+                "squiggle/rev1": { "device_ver": "0x0001", "pid": "0x6969", "vid": "0x1209" }
             },
             "0xA1E5": {
                 "atreus": { "device_ver": "0x0008", "pid": "0xA1E5", "vid": "0x1209" },
@@ -3767,5 +3768,5 @@
             }
         }
     },
-    "last_updated": "2021-01-05 19:12:35 GMT"
+    "last_updated": "2021-01-05 21:19:13 GMT"
 }
