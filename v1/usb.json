@@ -2806,6 +2806,7 @@
                 "handwired/co60/rev6": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "handwired/co60/rev7": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "handwired/dactyl_left": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
+                "handwired/evk/v1_3": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "handwired/floorboard": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "handwired/heisenberg": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "handwired/hnah108": { "device_ver": "0x0002", "pid": "0x0000", "vid": "0xFEED" },
@@ -3488,12 +3489,14 @@
                 "handwired/onekey/elite_c": { "device_ver": "0x0001", "pid": "0x6465", "vid": "0xFEED" },
                 "handwired/onekey/promicro": { "device_ver": "0x0001", "pid": "0x6465", "vid": "0xFEED" },
                 "handwired/onekey/proton_c": { "device_ver": "0x0001", "pid": "0x6465", "vid": "0xFEED" },
-                "handwired/onekey/pytest": { "device_ver": "0x0001", "pid": "0x6465", "vid": "0xFEED" },
                 "handwired/onekey/stm32f0_disco": { "device_ver": "0x0001", "pid": "0x6465", "vid": "0xFEED" },
                 "handwired/onekey/teensy_2": { "device_ver": "0x0001", "pid": "0x6465", "vid": "0xFEED" },
                 "handwired/onekey/teensy_2pp": { "device_ver": "0x0001", "pid": "0x6465", "vid": "0xFEED" },
                 "handwired/onekey/teensy_32": { "device_ver": "0x0001", "pid": "0x6465", "vid": "0xFEED" },
-                "handwired/onekey/teensy_lc": { "device_ver": "0x0001", "pid": "0x6465", "vid": "0xFEED" }
+                "handwired/onekey/teensy_lc": { "device_ver": "0x0001", "pid": "0x6465", "vid": "0xFEED" },
+                "handwired/pytest/basic": { "device_ver": "0x0001", "pid": "0x6465", "vid": "0xFEED" },
+                "handwired/pytest/has_community": { "device_ver": "0x0001", "pid": "0x6465", "vid": "0xFEED" },
+                "handwired/pytest/has_template": { "device_ver": "0x0001", "pid": "0x6465", "vid": "0xFEED" }
             },
             "0x6512": {
                 "converter/xt_usb": { "device_ver": "0x0001", "pid": "0x6512", "vid": "0xFEED" }
@@ -3764,5 +3767,5 @@
             }
         }
     },
-    "last_updated": "2021-01-04 01:57:02 GMT"
+    "last_updated": "2021-01-05 19:12:35 GMT"
 }
