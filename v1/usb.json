@@ -680,6 +680,9 @@
             },
             "0x2260": {
                 "dz60": { "device_ver": "0x0001", "pid": "0x2260", "vid": "0x445A" }
+            },
+            "0xDB96": {
+                "dztech/dz96": { "device_ver": "0x0001", "pid": "0xDB96", "vid": "0x445A" }
             }
         },
         "0x454B": {
@@ -3717,7 +3720,8 @@
             },
             "0xDFA5": {
                 "treadstone32": { "device_ver": "0x0010", "pid": "0xDFA5", "vid": "0xFEED" },
-                "treadstone32/lite": { "device_ver": "0x0010", "pid": "0xDFA5", "vid": "0xFEED" }
+                "treadstone32/lite": { "device_ver": "0x0010", "pid": "0xDFA5", "vid": "0xFEED" },
+                "treadstone32/rev1": { "device_ver": "0x0010", "pid": "0xDFA5", "vid": "0xFEED" }
             },
             "0xDFA8": {
                 "marksard/leftover30": { "device_ver": "0x0001", "pid": "0xDFA8", "vid": "0xFEED" }
@@ -3768,5 +3772,5 @@
             }
         }
     },
-    "last_updated": "2021-01-05 21:19:13 GMT"
+    "last_updated": "2021-01-06 00:45:42 GMT"
 }
