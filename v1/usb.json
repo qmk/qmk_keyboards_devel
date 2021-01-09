@@ -316,9 +316,6 @@
             },
             "0x424D": {
                 "winkeyless/bmini": { "device_ver": "0x0200", "pid": "0x424D", "vid": "0x20A0" }
-            },
-            "0x4258": {
-                "winkeyless/bminiex": { "device_ver": "0x0200", "pid": "0x4258", "vid": "0x20A0" }
             }
         },
         "0x21FF": {
@@ -368,12 +365,6 @@
             },
             "0x4976": {
                 "ergodox_ez/glow": { "device_ver": "0x0001", "pid": "0x4976", "vid": "0x3297" }
-            },
-            "0xC6CE": {
-                "planck/ez": { "device_ver": "0x0000", "pid": "0xC6CE", "vid": "0x3297" }
-            },
-            "0xC6CF": {
-                "planck/ez/glow": { "device_ver": "0x0000", "pid": "0xC6CF", "vid": "0x3297" }
             }
         },
         "0x3430": {
@@ -402,11 +393,6 @@
             "0x5141": {
                 "handwired/xealous": { "device_ver": "0x0001", "pid": "0x5141", "vid": "0x4131" },
                 "handwired/xealous/rev1": { "device_ver": "0x0001", "pid": "0x5141", "vid": "0x4131" }
-            }
-        },
-        "0x4142": {
-            "0x4D55": {
-                "littlealby/mute": { "device_ver": "0x0001", "pid": "0x4D55", "vid": "0x4142" }
             }
         },
         "0x4145": {
@@ -1037,6 +1023,9 @@
             }
         },
         "0x4C46": {
+            "0x3231": {
+                "lfkeyboards/lfkpad": { "device_ver": "0x0001", "pid": "0x3231", "vid": "0x4C46" }
+            },
             "0x565B": {
                 "lfkeyboards/smk65": { "device_ver": "0x0006", "pid": "0x565B", "vid": "0x4C46" },
                 "lfkeyboards/smk65/revb": { "device_ver": "0x0006", "pid": "0x565B", "vid": "0x4C46" },
@@ -1364,15 +1353,8 @@
             "0x0001": {
                 "sneakbox/aliceclone": { "device_ver": "0x0001", "pid": "0x0001", "vid": "0x5342" }
             },
-            "0x3225": {
-                "spaceman/2_milk": { "device_ver": "0x0001", "pid": "0x3225", "vid": "0x5342" }
-            },
             "0x4355": {
                 "handwired/curiosity": { "device_ver": "0x0001", "pid": "0x4355", "vid": "0x5342" }
-            },
-            "0x504B": {
-                "spaceman/pancake/feather": { "device_ver": "0x0001", "pid": "0x504B", "vid": "0x5342" },
-                "spaceman/pancake/promicro": { "device_ver": "0x0001", "pid": "0x504B", "vid": "0x5342" }
             }
         },
         "0x5343": {
@@ -1822,6 +1804,11 @@
                 "coseyfannitutti/mysterium": { "device_ver": "0x0001", "pid": "0x8769", "vid": "0x6B62" }
             }
         },
+        "0x6BE3": {
+            "0xA129": {
+                "odelia": { "device_ver": "0x0001", "pid": "0xA129", "vid": "0x6BE3" }
+            }
+        },
         "0x6C63": {
             "0x6C62": {
                 "latin47ble": { "device_ver": "0x0001", "pid": "0x6C62", "vid": "0x6C63" }
@@ -2046,11 +2033,6 @@
         "0x7983": {
             "0x0512": {
                 "keycapsss/o4l_5x12": { "device_ver": "0x0001", "pid": "0x0512", "vid": "0x7983" }
-            },
-            "0x5050": {
-                "keycapsss/plaid_pad": { "device_ver": "0x0001", "pid": "0x5050", "vid": "0x7983" },
-                "keycapsss/plaid_pad/rev1": { "device_ver": "0x0001", "pid": "0x5050", "vid": "0x7983" },
-                "keycapsss/plaid_pad/rev2": { "device_ver": "0x0001", "pid": "0x5050", "vid": "0x7983" }
             }
         },
         "0x7C88": {
@@ -2555,10 +2537,6 @@
             },
             "0x1169": {
                 "keebio/bfo9000": { "device_ver": "0x0100", "pid": "0x1169", "vid": "0xCB10" }
-            },
-            "0x1246": {
-                "keebio/rorschach": { "device_ver": "0x0100", "pid": "0x1246", "vid": "0xCB10" },
-                "keebio/rorschach/rev1": { "device_ver": "0x0100", "pid": "0x1246", "vid": "0xCB10" }
             },
             "0x1247": {
                 "keebio/fourier": { "device_ver": "0x0100", "pid": "0x1247", "vid": "0xCB10" }
@@ -3330,7 +3308,6 @@
                 "ckeys/obelus": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "ckeys/thedora": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "comet46": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
-                "converter/hp_46010a": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "converter/ibm_5291": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "ergodash": { "device_ver": "0x0100", "pid": "0x6060", "vid": "0xFEED" },
                 "ergodash/mini": { "device_ver": "0x0100", "pid": "0x6060", "vid": "0xFEED" },
@@ -3386,7 +3363,6 @@
                 "lfkeyboards/lfk78/revc": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "lfkeyboards/lfk78/revj": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "lfkeyboards/lfk87": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
-                "lfkeyboards/lfkpad": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "lfkeyboards/mini1800": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "maxipad": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "maxipad/promicro": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
@@ -3400,12 +3376,15 @@
                 "org60": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "paladin64": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "panc40": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
-                "planck/rev1": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
-                "planck/rev2": { "device_ver": "0x0002", "pid": "0x6060", "vid": "0xFEED" },
-                "planck/rev3": { "device_ver": "0x0003", "pid": "0x6060", "vid": "0xFEED" },
-                "planck/rev4": { "device_ver": "0x0004", "pid": "0x6060", "vid": "0xFEED" },
-                "planck/rev5": { "device_ver": "0x0005", "pid": "0x6060", "vid": "0xFEED" },
-                "planck/rev6": { "device_ver": "0x0006", "pid": "0x6060", "vid": "0xFEED" },
+                "planck/ez": { "pid": "0x6060", "vid": "0xFEED" },
+                "planck/ez/glow": { "pid": "0x6060", "vid": "0xFEED" },
+                "planck/light": { "pid": "0x6060", "vid": "0xFEED" },
+                "planck/rev1": { "pid": "0x6060", "vid": "0xFEED" },
+                "planck/rev2": { "pid": "0x6060", "vid": "0xFEED" },
+                "planck/rev3": { "pid": "0x6060", "vid": "0xFEED" },
+                "planck/rev4": { "pid": "0x6060", "vid": "0xFEED" },
+                "planck/rev5": { "pid": "0x6060", "vid": "0xFEED" },
+                "planck/rev6": { "pid": "0x6060", "vid": "0xFEED" },
                 "playkbtw/ca66": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "playkbtw/pk60": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "primekb/prime_r": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
@@ -3431,9 +3410,9 @@
                 "meira": { "device_ver": "0x0001", "pid": "0x6061", "vid": "0xFEED" },
                 "meira/featherble": { "device_ver": "0x0001", "pid": "0x6061", "vid": "0xFEED" },
                 "meira/promicro": { "device_ver": "0x0001", "pid": "0x6061", "vid": "0xFEED" },
-                "preonic/rev1": { "device_ver": "0x0001", "pid": "0x6061", "vid": "0xFEED" },
-                "preonic/rev2": { "device_ver": "0x0002", "pid": "0x6061", "vid": "0xFEED" },
-                "preonic/rev3": { "device_ver": "0x0003", "pid": "0x6061", "vid": "0xFEED" }
+                "preonic/rev1": { "pid": "0x6061", "vid": "0xFEED" },
+                "preonic/rev2": { "pid": "0x6061", "vid": "0xFEED" },
+                "preonic/rev3": { "pid": "0x6061", "vid": "0xFEED" }
             },
             "0x6062": {
                 "atreus62": { "device_ver": "0x0001", "pid": "0x6062", "vid": "0xFEED" },
@@ -3445,9 +3424,6 @@
             },
             "0x6064": {
                 "lfkeyboards/lfk65_hs": { "device_ver": "0x0001", "pid": "0x6064", "vid": "0xFEED" }
-            },
-            "0x6065": {
-                "planck/light": { "device_ver": "0x0001", "pid": "0x6065", "vid": "0xFEED" }
             },
             "0x6066": {
                 "amj60": { "device_ver": "0x0001", "pid": "0x6066", "vid": "0xFEED" }
@@ -3654,8 +3630,7 @@
                 "handwired/fruity60": { "device_ver": "0x0001", "pid": "0xB170", "vid": "0xFEED" }
             },
             "0xB195": {
-                "handwired/ddg_56": { "device_ver": "0x0001", "pid": "0xB195", "vid": "0xFEED" },
-                "kingly_keys/smd_milk": { "device_ver": "0x0001", "pid": "0xB195", "vid": "0xFEED" }
+                "handwired/ddg_56": { "device_ver": "0x0001", "pid": "0xB195", "vid": "0xFEED" }
             },
             "0xB919": {
                 "hid_liber": { "device_ver": "0x0001", "pid": "0xB919", "vid": "0xFEED" }
@@ -3782,5 +3757,5 @@
             }
         }
     },
-    "last_updated": "2021-01-08 19:23:14 GMT"
+    "last_updated": "2021-01-09 22:53:35 GMT"
 }
