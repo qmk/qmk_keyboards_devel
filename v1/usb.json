@@ -990,8 +990,8 @@
                 "bm60rgb": { "device_ver": "0x0001", "pid": "0xEF8C", "vid": "0x4B50" },
                 "bm60rgb_iso": { "device_ver": "0x0001", "pid": "0xEF8C", "vid": "0x4B50" }
             },
-            "0xEF8E": {
-                "bm60poker": { "device_ver": "0x0001", "pid": "0xEF8E", "vid": "0x4B50" }
+            "0xEF8D": {
+                "bm60poker": { "device_ver": "0x0001", "pid": "0xEF8D", "vid": "0x4B50" }
             }
         },
         "0x4B57": {
@@ -1510,6 +1510,9 @@
             }
         },
         "0x5742": {
+            "0x6361": {
+                "walletburner/cajal": { "device_ver": "0x0001", "pid": "0x6361", "vid": "0x5742" }
+            },
             "0x6E75": {
                 "walletburner/neuron": { "device_ver": "0x0001", "pid": "0x6E75", "vid": "0x5742" }
             }
@@ -3851,5 +3854,5 @@
             }
         }
     },
-    "last_updated": "2021-01-15 07:36:01 GMT"
+    "last_updated": "2021-01-17 13:54:03 GMT"
 }
