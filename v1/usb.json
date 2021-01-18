@@ -1164,6 +1164,11 @@
                 "handwired/jopr": { "device_ver": "0x0001", "pid": "0x1000", "vid": "0x4DAE" }
             }
         },
+        "0x4E49": {
+            "0x0002": {
+                "nibiria/stream15": { "device_ver": "0x0001", "pid": "0x0002", "vid": "0x4E49" }
+            }
+        },
         "0x4E50": {
             "0x9111": {
                 "nopunin10did/railroad/rev0": { "device_ver": "0x0001", "pid": "0x9111", "vid": "0x4E50" }
@@ -3854,5 +3859,5 @@
             }
         }
     },
-    "last_updated": "2021-01-17 13:54:03 GMT"
+    "last_updated": "2021-01-18 02:17:59 GMT"
 }
