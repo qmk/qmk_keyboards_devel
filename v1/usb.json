@@ -1057,6 +1057,11 @@
                 "redox_w": { "device_ver": "0x0001", "pid": "0x5257", "vid": "0x4D44" }
             }
         },
+        "0x4D47": {
+            "0x584F": {
+                "monstargear/xo87/rgb": { "device_ver": "0x0001", "pid": "0x584F", "vid": "0x4D47" }
+            }
+        },
         "0x4D4C": {
             "0x4B4E": {
                 "mechlovin/kanu": { "device_ver": "0x0001", "pid": "0x4B4E", "vid": "0x4D4C" }
@@ -3859,5 +3864,5 @@
             }
         }
     },
-    "last_updated": "2021-01-18 02:17:59 GMT"
+    "last_updated": "2021-01-19 01:20:02 GMT"
 }
