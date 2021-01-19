@@ -533,8 +533,11 @@
             }
         },
         "0x434D": {
+            "0x5348": {
+                "cmm_studio/saka68/hotswap": { "device_ver": "0x0001", "pid": "0x5348", "vid": "0x434D" }
+            },
             "0x534B": {
-                "cmm_studio/saka68": { "device_ver": "0x0001", "pid": "0x534B", "vid": "0x434D" }
+                "cmm_studio/saka68/solder": { "device_ver": "0x0001", "pid": "0x534B", "vid": "0x434D" }
             }
         },
         "0x4354": {
@@ -3864,5 +3867,5 @@
             }
         }
     },
-    "last_updated": "2021-01-19 01:20:02 GMT"
+    "last_updated": "2021-01-19 13:21:01 GMT"
 }
