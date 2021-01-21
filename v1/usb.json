@@ -1198,6 +1198,11 @@
                 "noxary/280": { "device_ver": "0x0001", "pid": "0x0118", "vid": "0x4E58" }
             }
         },
+        "0x4E5A": {
+            "0x8001": {
+                "mesa/mesa_tkl": { "device_ver": "0x0001", "pid": "0x8001", "vid": "0x4E5A" }
+            }
+        },
         "0x4F4A": {
             "0x0002": {
                 "edc40": { "device_ver": "0x0001", "pid": "0x0002", "vid": "0x4F4A" }
@@ -3867,5 +3872,5 @@
             }
         }
     },
-    "last_updated": "2021-01-19 23:02:22 GMT"
+    "last_updated": "2021-01-21 06:02:00 GMT"
 }
