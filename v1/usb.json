@@ -1484,6 +1484,11 @@
         "0x544E": {
             "0x3931": {
                 "pom_keyboards/tnln95": { "device_ver": "0x0001", "pid": "0x3931", "vid": "0x544E" }
+            },
+            "0x7033": {
+                "pinky": { "device_ver": "0x0001", "pid": "0x7033", "vid": "0x544E" },
+                "pinky/3": { "device_ver": "0x0001", "pid": "0x7033", "vid": "0x544E" },
+                "pinky/4": { "device_ver": "0x0001", "pid": "0x7033", "vid": "0x544E" }
             }
         },
         "0x5454": {
@@ -3247,9 +3252,6 @@
                 "orthodox/rev1": { "device_ver": "0x0001", "pid": "0x3060", "vid": "0xFEED" },
                 "orthodox/rev3": { "device_ver": "0x0001", "pid": "0x3060", "vid": "0xFEED" },
                 "orthodox/rev3_teensy": { "device_ver": "0x0001", "pid": "0x3060", "vid": "0xFEED" },
-                "pinky": { "device_ver": "0x0001", "pid": "0x3060", "vid": "0xFEED" },
-                "pinky/3": { "device_ver": "0x0001", "pid": "0x3060", "vid": "0xFEED" },
-                "pinky/4": { "device_ver": "0x0001", "pid": "0x3060", "vid": "0xFEED" },
                 "rgbkb/sol": { "device_ver": "0x0002", "pid": "0x3060", "vid": "0xFEED" },
                 "rgbkb/sol/rev1": { "device_ver": "0x0002", "pid": "0x3060", "vid": "0xFEED" },
                 "rgbkb/sol/rev2": { "device_ver": "0x0002", "pid": "0x3060", "vid": "0xFEED" },
@@ -3872,5 +3874,5 @@
             }
         }
     },
-    "last_updated": "2021-01-21 06:02:00 GMT"
+    "last_updated": "2021-01-22 19:33:16 GMT"
 }
