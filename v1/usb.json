@@ -45,6 +45,11 @@
             }
         },
         "0x04D8": {
+            "0xEA3B": {
+                "zinc": { "device_ver": "0x0001", "pid": "0xEA3B", "vid": "0x04D8" },
+                "zinc/rev1": { "device_ver": "0x0001", "pid": "0xEA3B", "vid": "0x04D8" },
+                "zinc/reva": { "device_ver": "0x0001", "pid": "0xEA3B", "vid": "0x04D8" }
+            },
             "0xEA68": {
                 "handwired/swiftrax/joypad": { "device_ver": "0x0001", "pid": "0xEA68", "vid": "0x04D8" }
             },
@@ -1128,6 +1133,9 @@
         "0x4D53": {
             "0x0002": {
                 "mechstudio/ud_40_ortho": { "device_ver": "0x0002", "pid": "0x0002", "vid": "0x4D53" }
+            },
+            "0x0004": {
+                "mechstudio/dawn": { "device_ver": "0x0004", "pid": "0x0004", "vid": "0x4D53" }
             }
         },
         "0x4D54": {
@@ -2648,7 +2656,8 @@
             "0x1257": {
                 "keebio/quefrency": { "device_ver": "0x0100", "pid": "0x1257", "vid": "0xCB10" },
                 "keebio/quefrency/rev1": { "device_ver": "0x0100", "pid": "0x1257", "vid": "0xCB10" },
-                "keebio/quefrency/rev2": { "device_ver": "0x0100", "pid": "0x1257", "vid": "0xCB10" }
+                "keebio/quefrency/rev2": { "device_ver": "0x0100", "pid": "0x1257", "vid": "0xCB10" },
+                "keebio/quefrency/rev3": { "device_ver": "0x0100", "pid": "0x1257", "vid": "0xCB10" }
             },
             "0x125F": {
                 "keebio/ergodicity": { "device_ver": "0x0001", "pid": "0x125F", "vid": "0xCB10" }
@@ -2725,6 +2734,11 @@
             },
             "0x0022": {
                 "pimentoso/paddino02/rev2/right": { "device_ver": "0x0002", "pid": "0x0022", "vid": "0xD00D" }
+            }
+        },
+        "0xD60D": {
+            "0x3200": {
+                "durgod/k320": { "device_ver": "0x0001", "pid": "0x3200", "vid": "0xD60D" }
             }
         },
         "0xD812": {
@@ -2930,6 +2944,7 @@
                 "kbdfans/kbd8x": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "kc60se": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "kira75": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
+                "knobgoblin": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "kyria": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "kyria/rev1": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "lizard_trick/tenkey_plusplus": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
@@ -3174,6 +3189,11 @@
                 "ncc1701kb": { "device_ver": "0x0001", "pid": "0x1701", "vid": "0xFEED" },
                 "themadnoodle/ncc1701kb/v2": { "device_ver": "0x0002", "pid": "0x1701", "vid": "0xFEED" },
                 "themadnoodle/noodlepad": { "device_ver": "0x0001", "pid": "0x1701", "vid": "0xFEED" }
+            },
+            "0x175A": {
+                "jones": { "device_ver": "0x0031", "pid": "0x175A", "vid": "0xFEED" },
+                "jones/v03": { "device_ver": "0x0031", "pid": "0x175A", "vid": "0xFEED" },
+                "jones/v03_1": { "device_ver": "0x0031", "pid": "0x175A", "vid": "0xFEED" }
             },
             "0x17B9": {
                 "clawsome/gamebuddy": { "device_ver": "0x0001", "pid": "0x17B9", "vid": "0xFEED" }
@@ -3703,11 +3723,6 @@
             "0x991D": {
                 "manta60": { "device_ver": "0x0001", "pid": "0x991D", "vid": "0xFEED" }
             },
-            "0x9991": {
-                "zinc": { "device_ver": "0x0001", "pid": "0x9991", "vid": "0xFEED" },
-                "zinc/rev1": { "device_ver": "0x0001", "pid": "0x9991", "vid": "0xFEED" },
-                "zinc/reva": { "device_ver": "0x0001", "pid": "0x9991", "vid": "0xFEED" }
-            },
             "0x9CE3": {
                 "arch_36": { "device_ver": "0x0001", "pid": "0x9CE3", "vid": "0xFEED" }
             },
@@ -3845,7 +3860,9 @@
                 "melgeek/mj61/rev1": { "device_ver": "0x0001", "pid": "0xED61", "vid": "0xFEED" }
             },
             "0xF10B": {
-                "program_yoink": { "device_ver": "0x0001", "pid": "0xF10B", "vid": "0xFEED" }
+                "program_yoink": { "device_ver": "0x0001", "pid": "0xF10B", "vid": "0xFEED" },
+                "program_yoink/ortho": { "device_ver": "0x0001", "pid": "0xF10B", "vid": "0xFEED" },
+                "program_yoink/staggered": { "device_ver": "0x0001", "pid": "0xF10B", "vid": "0xFEED" }
             },
             "0xF22C": {
                 "for_science": { "device_ver": "0x0001", "pid": "0xF22C", "vid": "0xFEED" }
@@ -3874,5 +3891,5 @@
             }
         }
     },
-    "last_updated": "2021-01-22 19:33:16 GMT"
+    "last_updated": "2021-01-25 19:40:31 GMT"
 }
