@@ -80,7 +80,7 @@
                 "basekeys/trifecta": { "device_ver": "0x0001", "pid": "0xEAF3", "vid": "0x04D8" }
             },
             "0xEB0C": {
-                "handwired/swiftrax/retropad": { "device_ver": "0x0001", "pid": "0xEB0C", "vid": "0x04D8" }
+                "swiftrax/retropad": { "device_ver": "0x0001", "pid": "0xEB0C", "vid": "0x04D8" }
             },
             "0xEB0E": {
                 "handwired/swiftrax/pandamic": { "device_ver": "0x0001", "pid": "0xEB0E", "vid": "0x04D8" }
@@ -3891,5 +3891,5 @@
             }
         }
     },
-    "last_updated": "2021-01-25 19:40:31 GMT"
+    "last_updated": "2021-01-27 06:40:35 GMT"
 }
