@@ -1414,6 +1414,11 @@
                 "vagrant_10": { "device_ver": "0x0001", "pid": "0x5E99", "vid": "0x534C" }
             }
         },
+        "0x534D": {
+            "0x3831": {
+                "sam/sg81m": { "device_ver": "0x0001", "pid": "0x3831", "vid": "0x534D" }
+            }
+        },
         "0x534F": {
             "0x0001": {
                 "efreet": { "device_ver": "0x0001", "pid": "0x0001", "vid": "0x534F" }
@@ -1669,7 +1674,11 @@
         },
         "0x616C": {
             "0x0001": {
-                "afternoonlabs/breeze/rev0": { "device_ver": "0x0000", "pid": "0x0001", "vid": "0x616C" }
+                "afternoonlabs/breeze/rev0": { "device_ver": "0x0000", "pid": "0x0001", "vid": "0x616C" },
+                "afternoonlabs/breeze/rev1": { "device_ver": "0x0001", "pid": "0x0001", "vid": "0x616C" }
+            },
+            "0x0002": {
+                "afternoonlabs/gust/rev1": { "device_ver": "0x0001", "pid": "0x0002", "vid": "0x616C" }
             }
         },
         "0x6172": {
@@ -3891,5 +3900,5 @@
             }
         }
     },
-    "last_updated": "2021-01-27 06:43:45 GMT"
+    "last_updated": "2021-01-30 21:12:28 GMT"
 }
