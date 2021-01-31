@@ -3879,6 +3879,9 @@
             "0xF4E4": {
                 "spiderisland/split78": { "device_ver": "0x0001", "pid": "0xF4E4", "vid": "0xFEED" }
             },
+            "0xF75B": {
+                "splitkb/zima": { "device_ver": "0x0001", "pid": "0xF75B", "vid": "0xFEED" }
+            },
             "0xFA9C": {
                 "wsk/houndstooth": { "device_ver": "0x0001", "pid": "0xFA9C", "vid": "0xFEED" }
             },
@@ -3900,5 +3903,5 @@
             }
         }
     },
-    "last_updated": "2021-01-30 21:16:23 GMT"
+    "last_updated": "2021-01-31 20:46:56 GMT"
 }
