@@ -59,6 +59,15 @@
             "0xEA53": {
                 "kikoslab/kl90": { "device_ver": "0x0001", "pid": "0xEA53", "vid": "0x04D8" }
             },
+            "0xEA54": {
+                "ergoarrows": { "device_ver": "0x0001", "pid": "0xEA54", "vid": "0x04D8" }
+            },
+            "0xEA55": {
+                "nknl7jp": { "device_ver": "0x0001", "pid": "0xEA55", "vid": "0x04D8" }
+            },
+            "0xEA56": {
+                "nknl7en": { "device_ver": "0x0001", "pid": "0xEA56", "vid": "0x04D8" }
+            },
             "0xEA68": {
                 "handwired/swiftrax/joypad": { "device_ver": "0x0001", "pid": "0xEA68", "vid": "0x04D8" }
             },
@@ -1067,6 +1076,11 @@
                 "lfkeyboards/smk65": { "device_ver": "0x0006", "pid": "0x565B", "vid": "0x4C46" },
                 "lfkeyboards/smk65/revb": { "device_ver": "0x0006", "pid": "0x565B", "vid": "0x4C46" },
                 "lfkeyboards/smk65/revf": { "device_ver": "0x0006", "pid": "0x565B", "vid": "0x4C46" }
+            }
+        },
+        "0x4C58": {
+            "0x0001": {
+                "linworks/whale75": { "device_ver": "0x0001", "pid": "0x0001", "vid": "0x4C58" }
             }
         },
         "0x4D42": {
@@ -2677,6 +2691,9 @@
             "0x1112": {
                 "keebio/tukey": { "device_ver": "0x0100", "pid": "0x1112", "vid": "0xCB10" }
             },
+            "0x111C": {
+                "keebio/stick": { "device_ver": "0x0100", "pid": "0x111C", "vid": "0xCB10" }
+            },
             "0x1133": {
                 "keebio/bdn9": { "device_ver": "0x0100", "pid": "0x1133", "vid": "0xCB10" },
                 "keebio/bdn9/rev1": { "device_ver": "0x0100", "pid": "0x1133", "vid": "0xCB10" },
@@ -2729,6 +2746,10 @@
             "0x126A": {
                 "keebio/kbo5000": { "device_ver": "0x0100", "pid": "0x126A", "vid": "0xCB10" },
                 "keebio/kbo5000/rev1": { "device_ver": "0x0100", "pid": "0x126A", "vid": "0xCB10" }
+            },
+            "0x144C": {
+                "keebio/dsp40": { "device_ver": "0x0100", "pid": "0x144C", "vid": "0xCB10" },
+                "keebio/dsp40/rev1": { "device_ver": "0x0100", "pid": "0x144C", "vid": "0xCB10" }
             },
             "0x2146": {
                 "keebio/levinson": { "device_ver": "0x0200", "pid": "0x2146", "vid": "0xCB10" },
@@ -3159,6 +3180,9 @@
             "0x0C61": {
                 "peiorisboards/ixora": { "device_ver": "0x00C6", "pid": "0x0C61", "vid": "0xFEED" },
                 "vinta": { "device_ver": "0x00C6", "pid": "0x0C61", "vid": "0xFEED" }
+            },
+            "0x0F34": {
+                "handwired/aim65": { "device_ver": "0x0001", "pid": "0x0F34", "vid": "0xFEED" }
             },
             "0x1001": {
                 "sirius/unigo66": { "device_ver": "0x1901", "pid": "0x1001", "vid": "0xFEED" }
@@ -3916,6 +3940,9 @@
             "0xED61": {
                 "melgeek/mj61/rev1": { "device_ver": "0x0001", "pid": "0xED61", "vid": "0xFEED" }
             },
+            "0xEE11": {
+                "earth_rover": { "device_ver": "0x0001", "pid": "0xEE11", "vid": "0xFEED" }
+            },
             "0xF10B": {
                 "program_yoink": { "device_ver": "0x0001", "pid": "0xF10B", "vid": "0xFEED" },
                 "program_yoink/ortho": { "device_ver": "0x0001", "pid": "0xF10B", "vid": "0xFEED" },
@@ -3951,5 +3978,5 @@
             }
         }
     },
-    "last_updated": "2021-02-06 21:05:20 GMT"
+    "last_updated": "2021-02-07 20:58:20 GMT"
 }
