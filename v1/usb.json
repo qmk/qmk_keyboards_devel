@@ -309,6 +309,12 @@
                 "whitefox": { "device_ver": "0x0001", "pid": "0xB04D", "vid": "0x1C11" }
             }
         },
+        "0x1D50": {
+            "0x6052": {
+                "splitty": { "device_ver": "0x0001", "pid": "0x6052", "vid": "0x1D50" },
+                "splitty/rev1": { "device_ver": "0x0001", "pid": "0x6052", "vid": "0x1D50" }
+            }
+        },
         "0x1EEE": {
             "0x1313": {
                 "handwired/tennie": { "device_ver": "0x0001", "pid": "0x1313", "vid": "0x1EEE" }
@@ -1635,6 +1641,11 @@
             "0x0001": {
                 "claw44": { "device_ver": "0x0001", "pid": "0x0001", "vid": "0x5946" },
                 "claw44/rev1": { "device_ver": "0x0001", "pid": "0x0001", "vid": "0x5946" }
+            },
+            "0x0002": {
+                "bat43": { "device_ver": "0x0001", "pid": "0x0002", "vid": "0x5946" },
+                "bat43/rev1": { "device_ver": "0x0001", "pid": "0x0002", "vid": "0x5946" },
+                "bat43/rev2": { "device_ver": "0x0001", "pid": "0x0002", "vid": "0x5946" }
             }
         },
         "0x594D": {
@@ -3200,11 +3211,6 @@
             "0x1013": {
                 "dc01/numpad": { "device_ver": "0x0001", "pid": "0x1013", "vid": "0xFEED" }
             },
-            "0x1070": {
-                "bat43": { "device_ver": "0x0001", "pid": "0x1070", "vid": "0xFEED" },
-                "bat43/rev1": { "device_ver": "0x0001", "pid": "0x1070", "vid": "0xFEED" },
-                "bat43/rev2": { "device_ver": "0x0001", "pid": "0x1070", "vid": "0xFEED" }
-            },
             "0x112D": {
                 "uranuma": { "device_ver": "0x0001", "pid": "0x112D", "vid": "0xFEED" }
             },
@@ -3978,5 +3984,5 @@
             }
         }
     },
-    "last_updated": "2021-02-07 20:58:20 GMT"
+    "last_updated": "2021-02-09 17:50:14 GMT"
 }
