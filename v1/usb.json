@@ -1229,19 +1229,23 @@
             }
         },
         "0x4E58": {
-            "0x003C": {
-                "noxary/260": { "device_ver": "0x0001", "pid": "0x003C", "vid": "0x4E58" }
+            "0x0899": {
+                "noxary/220": { "device_ver": "0x0001", "pid": "0x0899", "vid": "0x4E58" }
             },
-            "0x00DC": {
-                "noxary/220": { "device_ver": "0x0001", "pid": "0x00DC", "vid": "0x4E58" }
+            "0x0A29": {
+                "noxary/260": { "device_ver": "0x0001", "pid": "0x0A29", "vid": "0x4E58" }
             },
-            "0x010C": {
-                "noxary/268": { "device_ver": "0x0001", "pid": "0x010C", "vid": "0x4E58" },
-                "noxary/268_2": { "device_ver": "0x0002", "pid": "0x010C", "vid": "0x4E58" },
-                "noxary/x268": { "device_ver": "0x0078", "pid": "0x010C", "vid": "0x4E58" }
+            "0x0A79": {
+                "noxary/268": { "device_ver": "0x0001", "pid": "0x0A79", "vid": "0x4E58" }
             },
-            "0x0118": {
-                "noxary/280": { "device_ver": "0x0001", "pid": "0x0118", "vid": "0x4E58" }
+            "0x0A7A": {
+                "noxary/268_2": { "device_ver": "0x0002", "pid": "0x0A7A", "vid": "0x4E58" }
+            },
+            "0x0A7B": {
+                "noxary/x268": { "device_ver": "0x0078", "pid": "0x0A7B", "vid": "0x4E58" }
+            },
+            "0x0AF1": {
+                "noxary/280": { "device_ver": "0x0001", "pid": "0x0AF1", "vid": "0x4E58" }
             }
         },
         "0x4E5A": {
@@ -1435,6 +1439,9 @@
             },
             "0x4355": {
                 "handwired/curiosity": { "device_ver": "0x0001", "pid": "0x4355", "vid": "0x5342" }
+            },
+            "0x594E": {
+                "spaceman/yun65": { "device_ver": "0x0001", "pid": "0x594E", "vid": "0x5342" }
             }
         },
         "0x5343": {
@@ -1674,6 +1681,9 @@
                 "yd60mq": { "device_ver": "0x0001", "pid": "0x604D", "vid": "0x594D" },
                 "yd60mq/12led": { "device_ver": "0x0001", "pid": "0x604D", "vid": "0x594D" },
                 "yd60mq/16led": { "device_ver": "0x0001", "pid": "0x604D", "vid": "0x594D" }
+            },
+            "0x6060": {
+                "ymdk/ymd67": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0x594D" }
             }
         },
         "0x5954": {
@@ -2132,6 +2142,11 @@
                 "box75": { "device_ver": "0x0001", "pid": "0xB075", "vid": "0x7668" }
             }
         },
+        "0x7764": {
+            "0x676D": {
+                "geminate60": { "device_ver": "0x0001", "pid": "0x676D", "vid": "0x7764" }
+            }
+        },
         "0x7767": {
             "0x0000": {
                 "clawsome/numeros": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0x7767" },
@@ -2417,6 +2432,11 @@
         "0xA8F7": {
             "0x1827": {
                 "hidtech/bastyl": { "device_ver": "0x0001", "pid": "0x1827", "vid": "0xA8F7" }
+            }
+        },
+        "0xA8F8": {
+            "0x1828": {
+                "bastardkb/bastylmini": { "device_ver": "0x0001", "pid": "0x1828", "vid": "0xA8F8" }
             }
         },
         "0xAB13": {
@@ -2883,6 +2903,9 @@
             }
         },
         "0xEDED": {
+            "0x0065": {
+                "melgeek/mj65/rev3": { "device_ver": "0x0001", "pid": "0x0065", "vid": "0xEDED" }
+            },
             "0x6063": {
                 "melgeek/mj63/rev1": { "device_ver": "0x0001", "pid": "0x6063", "vid": "0xEDED" }
             },
@@ -3620,7 +3643,6 @@
                 "tetris": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "xw60": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "yd68": { "device_ver": "0x0002", "pid": "0x6060", "vid": "0xFEED" },
-                "ymdk/ymd67": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "z150_bh": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "zj68": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" },
                 "zlant": { "device_ver": "0x0001", "pid": "0x6060", "vid": "0xFEED" }
@@ -3781,6 +3803,12 @@
             },
             "0x7C1A": {
                 "reviung61": { "device_ver": "0x0001", "pid": "0x7C1A", "vid": "0xFEED" }
+            },
+            "0x8888": {
+                "sowbug/68keys": { "device_ver": "0x0001", "pid": "0x8888", "vid": "0xFEED" }
+            },
+            "0x8889": {
+                "sowbug/ansi_tkl": { "device_ver": "0x0001", "pid": "0x8889", "vid": "0xFEED" }
             },
             "0x8DEF": {
                 "bakeneko80": { "device_ver": "0x0001", "pid": "0x8DEF", "vid": "0xFEED" }
@@ -3984,5 +4012,5 @@
             }
         }
     },
-    "last_updated": "2021-02-09 17:50:14 GMT"
+    "last_updated": "2021-02-13 03:57:20 GMT"
 }
