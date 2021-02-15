@@ -1223,6 +1223,14 @@
                 "nibiria/stream15": { "device_ver": "0x0001", "pid": "0x0002", "vid": "0x4E49" }
             }
         },
+        "0x4E4B": {
+            "0x5048": {
+                "neokeys/g67/hotswap": { "device_ver": "0x0100", "pid": "0x5048", "vid": "0x4E4B" }
+            },
+            "0x5053": {
+                "neokeys/g67/soldered": { "device_ver": "0x0100", "pid": "0x5053", "vid": "0x4E4B" }
+            }
+        },
         "0x4E50": {
             "0x9111": {
                 "nopunin10did/railroad/rev0": { "device_ver": "0x0001", "pid": "0x9111", "vid": "0x4E50" }
@@ -1261,6 +1269,11 @@
         "0x4F53": {
             "0x464B": {
                 "labyrinth75": { "device_ver": "0x0001", "pid": "0x464B", "vid": "0x4F53" }
+            }
+        },
+        "0x5040": {
+            "0x7320": {
+                "polycarbdiet/s20": { "device_ver": "0x0001", "pid": "0x7320", "vid": "0x5040" }
             }
         },
         "0x5043": {
@@ -1667,6 +1680,9 @@
             },
             "0x4409": {
                 "ymdk/ymd09": { "device_ver": "0x0001", "pid": "0x4409", "vid": "0x594D" }
+            },
+            "0x4440": {
+                "ymdk/ymd40/v2": { "device_ver": "0x0001", "pid": "0x4440", "vid": "0x594D" }
             },
             "0x4D96": {
                 "melody96": { "device_ver": "0x0001", "pid": "0x4D96", "vid": "0x594D" }
@@ -4012,5 +4028,5 @@
             }
         }
     },
-    "last_updated": "2021-02-14 22:41:36 GMT"
+    "last_updated": "2021-02-15 01:13:19 GMT"
 }
