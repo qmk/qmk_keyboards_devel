@@ -2282,6 +2282,18 @@
             "0x0001": {
                 "handwired/mechboards_micropad": { "device_ver": "0x0001", "pid": "0x0001", "vid": "0x8968" }
             },
+            "0x1010": {
+                "dc01/left": { "device_ver": "0x0001", "pid": "0x1010", "vid": "0x8968" }
+            },
+            "0x1011": {
+                "dc01/right": { "device_ver": "0x0001", "pid": "0x1011", "vid": "0x8968" }
+            },
+            "0x1012": {
+                "dc01/arrow": { "device_ver": "0x0001", "pid": "0x1012", "vid": "0x8968" }
+            },
+            "0x1013": {
+                "dc01/numpad": { "device_ver": "0x0001", "pid": "0x1013", "vid": "0x8968" }
+            },
             "0x414D": {
                 "allison": { "device_ver": "0x0001", "pid": "0x414D", "vid": "0x8968" }
             },
@@ -3238,17 +3250,7 @@
                 "sirius/unigo66": { "device_ver": "0x1901", "pid": "0x1001", "vid": "0xFEED" }
             },
             "0x1010": {
-                "dc01/left": { "device_ver": "0x0001", "pid": "0x1010", "vid": "0xFEED" },
                 "handwired/bigmac": { "device_ver": "0x0001", "pid": "0x1010", "vid": "0xFEED" }
-            },
-            "0x1011": {
-                "dc01/right": { "device_ver": "0x0001", "pid": "0x1011", "vid": "0xFEED" }
-            },
-            "0x1012": {
-                "dc01/arrow": { "device_ver": "0x0001", "pid": "0x1012", "vid": "0xFEED" }
-            },
-            "0x1013": {
-                "dc01/numpad": { "device_ver": "0x0001", "pid": "0x1013", "vid": "0xFEED" }
             },
             "0x112D": {
                 "uranuma": { "device_ver": "0x0001", "pid": "0x112D", "vid": "0xFEED" }
@@ -4028,5 +4030,5 @@
             }
         }
     },
-    "last_updated": "2021-02-16 00:30:00 GMT"
+    "last_updated": "2021-02-16 01:57:22 GMT"
 }
