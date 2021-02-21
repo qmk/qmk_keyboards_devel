@@ -29,6 +29,11 @@
                 "projectkb/alice/rev2": { "device_ver": "0x0001", "pid": "0xA71C", "vid": "0x0159" }
             }
         },
+        "0x0192": {
+            "0x5154": {
+                "ealdin/quadrant": { "device_ver": "0x0001", "pid": "0x5154", "vid": "0x0192" }
+            }
+        },
         "0x0200": {
             "0xE600": {
                 "zoo/wampus": { "device_ver": "0x0001", "pid": "0xE600", "vid": "0x0200" }
@@ -55,6 +60,9 @@
             },
             "0xEA44": {
                 "handwired/swiftrax/koalafications": { "device_ver": "0x0001", "pid": "0xEA44", "vid": "0x04D8" }
+            },
+            "0xEA4F": {
+                "dozen0": { "device_ver": "0x0001", "pid": "0xEA4F", "vid": "0x04D8" }
             },
             "0xEA53": {
                 "kikoslab/kl90": { "device_ver": "0x0001", "pid": "0xEA53", "vid": "0x04D8" }
@@ -380,6 +388,9 @@
             },
             "0x0002": {
                 "yushakobo/quick7": { "device_ver": "0x0001", "pid": "0x0002", "vid": "0x3265" }
+            },
+            "0x0005": {
+                "foostan/cornelius": { "device_ver": "0x0001", "pid": "0x0005", "vid": "0x3265" }
             }
         },
         "0x3297": {
@@ -460,6 +471,9 @@
             },
             "0x0075": {
                 "rart/rart75": { "device_ver": "0x0001", "pid": "0x0075", "vid": "0x414C" }
+            },
+            "0x5050": {
+                "rart/rartand": { "device_ver": "0x0001", "pid": "0x5050", "vid": "0x414C" }
             }
         },
         "0x4150": {
@@ -582,6 +596,9 @@
         "0x4443": {
             "0x5350": {
                 "flehrad/snagpad": { "device_ver": "0x0001", "pid": "0x5350", "vid": "0x4443" }
+            },
+            "0xB960": {
+                "donutcables/budget96": { "device_ver": "0x0200", "pid": "0xB960", "vid": "0x4443" }
             }
         },
         "0x4444": {
@@ -641,10 +658,16 @@
                 "handwired/dactyl_manuform/5x7": { "device_ver": "0x0001", "pid": "0x3537", "vid": "0x444D" }
             },
             "0x3632": {
+                "handwired/concertina": { "device_ver": "0x0001", "pid": "0x3632", "vid": "0x444D" },
                 "handwired/dactyl_manuform/dmote/62key": { "device_ver": "0x0001", "pid": "0x3632", "vid": "0x444D" }
             },
             "0x3636": {
                 "handwired/dactyl_manuform/6x6": { "device_ver": "0x0001", "pid": "0x3636", "vid": "0x444D" }
+            }
+        },
+        "0x444E": {
+            "0x4450": {
+                "dekunukem/duckypad": { "device_ver": "0x0001", "pid": "0x4450", "vid": "0x444E" }
             }
         },
         "0x4452": {
@@ -766,6 +789,11 @@
             },
             "0x0005": {
                 "foxlab/time80": { "device_ver": "0x0001", "pid": "0x0005", "vid": "0x464C" }
+            }
+        },
+        "0x4652": {
+            "0x5558": {
+                "fr4/unix60": { "device_ver": "0x0001", "pid": "0x5558", "vid": "0x4652" }
             }
         },
         "0x4653": {
@@ -982,6 +1010,11 @@
             },
             "0x3938": {
                 "kabedon/kabedon980": { "device_ver": "0x0001", "pid": "0x3938", "vid": "0x4B44" }
+            }
+        },
+        "0x4B47": {
+            "0x0000": {
+                "knobgoblin": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0x4B47" }
             }
         },
         "0x4B48": {
@@ -1252,6 +1285,9 @@
             "0x0A7B": {
                 "noxary/x268": { "device_ver": "0x0078", "pid": "0x0A7B", "vid": "0x4E58" }
             },
+            "0x0A7C": {
+                "noxary/268_2_rgb": { "device_ver": "0x0001", "pid": "0x0A7C", "vid": "0x4E58" }
+            },
             "0x0AF1": {
                 "noxary/280": { "device_ver": "0x0001", "pid": "0x0AF1", "vid": "0x4E58" }
             }
@@ -1335,6 +1371,11 @@
             },
             "0x434E": {
                 "percent/canoe": { "device_ver": "0x0200", "pid": "0x434E", "vid": "0x5053" }
+            }
+        },
+        "0x5054": {
+            "0xBB91": {
+                "phase_studio/titan65": { "device_ver": "0x0001", "pid": "0xBB91", "vid": "0x5054" }
             }
         },
         "0x5057": {
@@ -1478,6 +1519,9 @@
             }
         },
         "0x534D": {
+            "0x3830": {
+                "sam/s80": { "device_ver": "0x0001", "pid": "0x3830", "vid": "0x534D" }
+            },
             "0x3831": {
                 "sam/sg81m": { "device_ver": "0x0001", "pid": "0x3831", "vid": "0x534D" }
             }
@@ -1892,6 +1936,11 @@
                 "alpine65": { "device_ver": "0x0001", "pid": "0x0065", "vid": "0x6680" }
             }
         },
+        "0x6761": {
+            "0x3432": {
+                "handwired/consolekeyboard": { "device_ver": "0x0001", "pid": "0x3432", "vid": "0x6761" }
+            }
+        },
         "0x6770": {
             "0x6501": {
                 "generic_panda/panda65_01": { "device_ver": "0x0001", "pid": "0x6501", "vid": "0x6770" }
@@ -2079,6 +2128,9 @@
             }
         },
         "0x7170": {
+            "0x656D": {
+                "eggman": { "device_ver": "0x1000", "pid": "0x656D", "vid": "0x7170" }
+            },
             "0x7373": {
                 "space_space": { "device_ver": "0x3000", "pid": "0x7373", "vid": "0x7170" }
             }
@@ -2273,6 +2325,11 @@
                 "technika": { "device_ver": "0x0001", "pid": "0x6049", "vid": "0x8484" }
             }
         },
+        "0x8767": {
+            "0x5F89": {
+                "handwired/ibm_wheelwriter": { "device_ver": "0x0002", "pid": "0x5F89", "vid": "0x8767" }
+            }
+        },
         "0x88B2": {
             "0x88B2": {
                 "hhkb_lite_2": { "device_ver": "0x0002", "pid": "0x88B2", "vid": "0x88B2" }
@@ -2338,6 +2395,11 @@
             },
             "0x5337": {
                 "nebula12": { "device_ver": "0x0001", "pid": "0x5337", "vid": "0x8968" }
+            }
+        },
+        "0x9856": {
+            "0x7070": {
+                "handwired/oem_iso_fullsize": { "device_ver": "0x0001", "pid": "0x7070", "vid": "0x9856" }
             }
         },
         "0x9906": {
@@ -2559,7 +2621,8 @@
                 "handwired/numpad20": { "device_ver": "0x0001", "pid": "0x0504", "vid": "0xBB80" }
             },
             "0x050D": {
-                "handwired/ortho5x13": { "device_ver": "0x0001", "pid": "0x050D", "vid": "0xBB80" }
+                "handwired/ortho5x13": { "device_ver": "0x0001", "pid": "0x050D", "vid": "0xBB80" },
+                "handwired/ortho5x14": { "device_ver": "0x0001", "pid": "0x050D", "vid": "0xBB80" }
             }
         },
         "0xBC42": {
@@ -2849,6 +2912,9 @@
             "0x0001": {
                 "anavi/macropad8": { "device_ver": "0x0001", "pid": "0x0001", "vid": "0xCEEB" }
             },
+            "0x0002": {
+                "anavi/macropad2": { "device_ver": "0x0001", "pid": "0x0002", "vid": "0xCEEB" }
+            },
             "0x0007": {
                 "40percentclub/nano": { "device_ver": "0x0001", "pid": "0x0007", "vid": "0xCEEB" },
                 "6ball": { "device_ver": "0x0001", "pid": "0x0007", "vid": "0xCEEB" },
@@ -2897,11 +2963,6 @@
         "0xDA74": {
             "0x7461": {
                 "sparrow62": { "device_ver": "0x0001", "pid": "0x7461", "vid": "0xDA74" }
-            }
-        },
-        "0xDCDC": {
-            "0x0002": {
-                "donutcables/budget96": { "device_ver": "0x0001", "pid": "0x0002", "vid": "0xDCDC" }
             }
         },
         "0xDEAD": {
@@ -3053,7 +3114,6 @@
                 "cu80": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "cutie_club/wraith": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "donutcables/scrabblepad": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
-                "dozen0": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "flehrad/downbubble": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "fluorite": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "gh60/v1p3": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
@@ -3087,7 +3147,6 @@
                 "kbdfans/kbd8x": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "kc60se": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "kira75": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
-                "knobgoblin": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "kyria": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "kyria/rev1": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "lizard_trick/tenkey_plusplus": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
@@ -3149,6 +3208,9 @@
             "0x0007": {
                 "9key": { "device_ver": "0x0001", "pid": "0x0007", "vid": "0xFEED" },
                 "handwired/lovelive9": { "device_ver": "0x0001", "pid": "0x0007", "vid": "0xFEED" }
+            },
+            "0x001C": {
+                "utd80": { "device_ver": "0x0001", "pid": "0x001C", "vid": "0xFEED" }
             },
             "0x002A": {
                 "ckeys/washington": { "device_ver": "0x0001", "pid": "0x002A", "vid": "0xFEED" },
@@ -3229,7 +3291,6 @@
                 "wsk/tkl30": { "device_ver": "0x0001", "pid": "0x0B7F", "vid": "0xFEED" }
             },
             "0x0B91": {
-                "dekunukem/duckypad": { "device_ver": "0x0001", "pid": "0x0B91", "vid": "0xFEED" },
                 "xiaomi/mk02": { "device_ver": "0x0001", "pid": "0x0B91", "vid": "0xFEED" }
             },
             "0x0C0D": {
@@ -3427,7 +3488,7 @@
                 "converter/sun_usb/type5": { "device_ver": "0x0100", "pid": "0x3333", "vid": "0xFEED" }
             },
             "0x350C": {
-                "southpaw75": { "device_ver": "0x0001", "pid": "0x350C", "vid": "0xFEED" }
+                "fr4/southpaw75": { "device_ver": "0x0001", "pid": "0x350C", "vid": "0xFEED" }
             },
             "0x3521": {
                 "the_royal/schwann": { "device_ver": "0x0001", "pid": "0x3521", "vid": "0xFEED" }
@@ -4030,5 +4091,5 @@
             }
         }
     },
-    "last_updated": "2021-02-16 01:57:22 GMT"
+    "last_updated": "2021-02-21 04:07:48 GMT"
 }
