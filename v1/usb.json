@@ -899,6 +899,9 @@
             }
         },
         "0x4753": {
+            "0x1000": {
+                "gray_studio/cod67": { "device_ver": "0x0001", "pid": "0x1000", "vid": "0x4753" }
+            },
             "0x2000": {
                 "gray_studio/hb85": { "device_ver": "0x0200", "pid": "0x2000", "vid": "0x4753" }
             },
@@ -1392,6 +1395,9 @@
             }
         },
         "0x5143": {
+            "0x4134": {
+                "tokyokeyboard/alix40": { "device_ver": "0x0001", "pid": "0x4134", "vid": "0x5143" }
+            },
             "0x4558": {
                 "exent": { "device_ver": "0x0001", "pid": "0x4558", "vid": "0x5143" }
             }
@@ -1493,6 +1499,10 @@
         "0x5342": {
             "0x0001": {
                 "sneakbox/aliceclone": { "device_ver": "0x0001", "pid": "0x0001", "vid": "0x5342" }
+            },
+            "0x0003": {
+                "sneakbox/disarray/ortho": { "device_ver": "0x0001", "pid": "0x0003", "vid": "0x5342" },
+                "sneakbox/disarray/staggered": { "device_ver": "0x0001", "pid": "0x0003", "vid": "0x5342" }
             },
             "0x4355": {
                 "handwired/curiosity": { "device_ver": "0x0001", "pid": "0x4355", "vid": "0x5342" }
@@ -2482,16 +2492,12 @@
         },
         "0xA13B": {
             "0x0007": {
-                "jacky_studio/s7_elephant/rev1": { "device_ver": "0x0001", "pid": "0x0007", "vid": "0xA13B" },
-                "s7_elephant": { "device_ver": "0x0001", "pid": "0x0007", "vid": "0xA13B" },
-                "s7_elephant/rev1": { "device_ver": "0x0001", "pid": "0x0007", "vid": "0xA13B" },
-                "s7_elephant/rev2": { "device_ver": "0x0001", "pid": "0x0007", "vid": "0xA13B" }
+                "jacky_studio/s7_elephant/rev1": { "device_ver": "0x0001", "pid": "0x0007", "vid": "0xA13B" }
             },
             "0x0008": {
                 "jacky_studio/s7_elephant/rev2": { "device_ver": "0x0002", "pid": "0x0008", "vid": "0xA13B" }
             },
             "0x000A": {
-                "bear_65": { "device_ver": "0x0001", "pid": "0x000A", "vid": "0xA13B" },
                 "jacky_studio/bear_65": { "device_ver": "0x0001", "pid": "0x000A", "vid": "0xA13B" }
             }
         },
@@ -2659,6 +2665,9 @@
             }
         },
         "0xBF00": {
+            "0xBF22": {
+                "daji/seis_cinco": { "device_ver": "0x0001", "pid": "0xBF22", "vid": "0xBF00" }
+            },
             "0xBFFA": {
                 "fallacy": { "device_ver": "0x0001", "pid": "0xBFFA", "vid": "0xBF00" }
             }
@@ -3110,6 +3119,7 @@
                 "angel17/alpha": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "angel17/rev1": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "ashpil/modelm_usbc": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
+                "blank_tehnologii/manibus": { "device_ver": "0x0002", "pid": "0x0000", "vid": "0xFEED" },
                 "blockey": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "bm43a": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
                 "business_card": { "device_ver": "0x0001", "pid": "0x0000", "vid": "0xFEED" },
@@ -3300,9 +3310,6 @@
             },
             "0x0B91": {
                 "xiaomi/mk02": { "device_ver": "0x0001", "pid": "0x0B91", "vid": "0xFEED" }
-            },
-            "0x0C0D": {
-                "gray_studio/cod67": { "device_ver": "0x0001", "pid": "0x0C0D", "vid": "0xFEED" }
             },
             "0x0C60": {
                 "handwired/qc60": { "device_ver": "0x00C6", "pid": "0x0C60", "vid": "0xFEED" },
@@ -4099,5 +4106,5 @@
             }
         }
     },
-    "last_updated": "2021-02-22 00:50:14 GMT"
+    "last_updated": "2021-02-22 22:05:21 GMT"
 }
