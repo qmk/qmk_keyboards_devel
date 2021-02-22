@@ -1463,6 +1463,9 @@
                 "choco60/rev1": { "device_ver": "0x0001", "pid": "0x4362", "vid": "0x524B" },
                 "choco60/rev2": { "device_ver": "0x0001", "pid": "0x4362", "vid": "0x524B" }
             },
+            "0x4D41": {
+                "mio": { "device_ver": "0x0001", "pid": "0x4D41", "vid": "0x524B" }
+            },
             "0x4E31": {
                 "nomu30": { "device_ver": "0x0001", "pid": "0x4E31", "vid": "0x524B" },
                 "nomu30/rev1": { "device_ver": "0x0001", "pid": "0x4E31", "vid": "0x524B" },
@@ -2996,11 +2999,13 @@
                 "melgeek/mj65/rev3": { "device_ver": "0x0001", "pid": "0x0065", "vid": "0xEDED" }
             },
             "0x6063": {
-                "melgeek/mj63/rev1": { "device_ver": "0x0001", "pid": "0x6063", "vid": "0xEDED" }
+                "melgeek/mj63/rev1": { "device_ver": "0x0001", "pid": "0x6063", "vid": "0xEDED" },
+                "melgeek/mj63/rev2": { "device_ver": "0x0001", "pid": "0x6063", "vid": "0xEDED" }
             },
             "0x6064": {
                 "melgeek/mj64/rev1": { "device_ver": "0x0001", "pid": "0x6064", "vid": "0xEDED" },
-                "melgeek/mj64/rev2": { "device_ver": "0x0001", "pid": "0x6064", "vid": "0xEDED" }
+                "melgeek/mj64/rev2": { "device_ver": "0x0001", "pid": "0x6064", "vid": "0xEDED" },
+                "melgeek/mj64/rev3": { "device_ver": "0x0001", "pid": "0x6064", "vid": "0xEDED" }
             },
             "0x6570": {
                 "melgeek/z70ultra": { "device_ver": "0x0001", "pid": "0x6570", "vid": "0xEDED" },
@@ -3084,6 +3089,9 @@
             },
             "0x8870": {
                 "thevankeyboards/bananasplit": { "device_ver": "0x0001", "pid": "0x8870", "vid": "0xFEAE" }
+            },
+            "0x8947": {
+                "trashman/ketch": { "device_ver": "0x0001", "pid": "0x8947", "vid": "0xFEAE" }
             }
         },
         "0xFEEB": {
@@ -4091,5 +4099,5 @@
             }
         }
     },
-    "last_updated": "2021-02-21 04:07:48 GMT"
+    "last_updated": "2021-02-22 00:50:14 GMT"
 }
