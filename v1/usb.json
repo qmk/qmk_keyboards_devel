@@ -591,6 +591,12 @@
         "0x4355": {
             "0x0065": {
                 "capsunlocked/cu65": { "device_ver": "0x0001", "pid": "0x0065", "vid": "0x4355" }
+            },
+            "0x0080": {
+                "capsunlocked/cu80/v2_iso": { "device_ver": "0x0001", "pid": "0x0080", "vid": "0x4355" }
+            },
+            "0x0081": {
+                "capsunlocked/cu80/v2_ansi": { "device_ver": "0x0001", "pid": "0x0081", "vid": "0x4355" }
             }
         },
         "0x4443": {
@@ -2788,7 +2794,8 @@
                 "cannonkeys/an_c": { "device_ver": "0x0001", "pid": "0xA00C", "vid": "0xCA04" }
             },
             "0xA7A5": {
-                "cannonkeys/atlas": { "device_ver": "0x0001", "pid": "0xA7A5", "vid": "0xCA04" }
+                "cannonkeys/atlas": { "device_ver": "0x0001", "pid": "0xA7A5", "vid": "0xCA04" },
+                "cannonkeys/atlas_alps": { "device_ver": "0x0010", "pid": "0xA7A5", "vid": "0xCA04" }
             },
             "0xC024": {
                 "cannonkeys/chimera65": { "device_ver": "0x0001", "pid": "0xC024", "vid": "0xCA04" }
@@ -4106,5 +4113,5 @@
             }
         }
     },
-    "last_updated": "2021-02-23 21:58:36 GMT"
+    "last_updated": "2021-02-24 20:24:39 GMT"
 }
